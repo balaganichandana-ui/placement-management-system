@@ -28,10 +28,10 @@ based on CGPA criteria.
 ## How to Run
 1. Compile all files:
 javac Main.java
-2. Run the program:
-3. java Main
+2. Run the program: java Main
 
 ## Author
 - Chandana Balagani
 - CSE(AI & ML)
+
 
