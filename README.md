@@ -29,7 +29,9 @@ based on CGPA criteria.
 1. Compile all files:
 javac Main.java
 2. Run the program:
+3. java Main
 
 ## Author
 - Chandana Balagani
 - CSE(AI & ML)
+
